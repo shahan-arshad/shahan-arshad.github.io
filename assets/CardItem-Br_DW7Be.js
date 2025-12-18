@@ -1,1 +1,0 @@
-import{_ as s,b as n,a,m as r,f as o,o as l}from"./index-CnftnYCw.js";const d={};function c(t,e){return l(),n("article",null,[a("h3",null,[r(t.$slots,"heading",{},()=>[e[0]||(e[0]=o(" FALLBACK HEADING VALUE ",-1))],!0)]),r(t.$slots,"content",{},()=>[e[1]||(e[1]=o(" FALLBACK CONTENT VALUE ",-1))],!0)])}const A=s(d,[["render",c],["__scopeId","data-v-6c93df75"]]);export{A as C};
